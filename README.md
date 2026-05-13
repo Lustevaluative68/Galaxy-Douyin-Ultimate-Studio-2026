@@ -50,3 +50,15 @@ https://www.facebook.com/jonathanNguyen421985/
 Zalo Support Group: Galaxy Community : 
 https://zalo.me/g/d2nolw7krb7xpgna1wrl
 
+⚖️ LEGAL DISCLAIMER
+To ensure transparency and compliance with Vietnamese law, users should note the following terms before using Galaxy Douyin Ultimate Studio 2026:
+
+Purpose of Use: This tool is developed solely for technical research (R&D) purposes and to support the content creation community in optimizing workflows. The Admin does NOT encourage or condone any unauthorized access, hacking, or sabotage of the platform's systems.
+
+Copyright Issues: This tool only supports downloading and processing videos. Users are solely responsible for copyright issues when using downloaded videos. The Admin is not responsible for any legal disputes arising from the misuse of content or violations of third-party policies.
+
+Intellectual Property Rights: The AI ​​cores (Whisper, Gemini API) and libraries (Playwright, FFmpeg) are the property of their respective technology corporations. The Galaxy Studio toolkit is merely an integrated solution of open-source technologies to serve the MMO community.
+
+Compliance with Cybersecurity Laws: Users commit not to use the tool for purposes that violate the current laws of the Socialist Republic of Vietnam.
+
+
