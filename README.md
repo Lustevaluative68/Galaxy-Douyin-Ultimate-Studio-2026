@@ -46,6 +46,7 @@ For licensing inquiries or custom feature requests, please reach out via:
 
 Facebook: Jonathan Nguyen
 https://www.facebook.com/jonathanNguyen421985/
+
 Zalo Support Group: Galaxy Community : 
 https://zalo.me/g/d2nolw7krb7xpgna1wrl
 
