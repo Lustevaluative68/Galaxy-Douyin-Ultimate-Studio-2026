@@ -1,0 +1,45 @@
+Các hướng dẫn anh em phải thực hiện để chạy tooll 
+
+1: bấm cmd : coppy các dòng cần cài phía dưới :
+
+pip install playwright playwright-stealth
+playwright install chromium
+pip install deep-translator
+pip install google-genai
+pip install -U openai-whisper
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
+2 : cài 2 cái thư viện em nhắn ở Bước 1 xong ok  
+phần dowload video : anh em quẳng link cần dowload vào . 
+chọn nơi lưu và bấm tải về 
+
+* Tab chọn Mode SRT : 
+chọn video đưa vào để lấy sub 
+chọn nơi xuất video
+chọn chế độ cpu hay gpu do máy ae khỏe hay yếu tự chọn
+chọn model: Model "small" (chạy siêu nhanh, độ chuẩn 95%) hoặc "medium" (chạy chậm hơn một chút nhưng chuẩn 99%),
+rồi bấm BẮT ĐẦU
+Tool sẽ xuất ra một file .srt giờ anh em vác vào cupcat hay ... gì gì đó anh em tạo tiếng là xong kaka 
+
+
+3 :Cách lấy API Key Gemini Miễn Phí để dùng cho tooll dịch 
+(Không dính dáng thẻ tín dụng):
+Vào đúng link này (Trang quản lý API Key):
+👉 https://aistudio.google.com/app/apikey
+
+Nhìn sang góc trên cùng bên trái, anh sẽ thấy một cái nút bự màu xanh lam ghi chữ "Create API key" (Tạo khóa API). Bấm thẳng vào nút đó.
+
+Nó sẽ hiện ra một cái bảng nhỏ, có 2 lựa chọn:
+
+Anh chọn cái dòng "Create API key in new project" (Tạo khóa API trong dự án mới).
+
+Nó xoay xoay khoảng 5 giây, rồi hiện ra một chuỗi ký tự dài ngoằng (bắt đầu bằng AIza...).
+
+Anh bấm nút "Copy" bên cạnh chuỗi mã đó. vứt vào tooll và lưu lại là lần sau cứ thế dùng không phải add lại nữa nha
+
+
+
+
+
+
+
