@@ -35,7 +35,7 @@ Hardware: NVIDIA GPU with CUDA support is highly recommended for AI modules.
 Dependencies: Python 3.10+, FFmpeg, Aria2c.
 
 📥 Getting Started
-Download the complete package from our Google Drive link ((https://drive.google.com/file/d/1hEVoEo2N4FCTrtQ0KgWDPpNFzyo3ahGi/view?usp=sharing)).
+Download the complete package from our Google Drive link ((https://drive.google.com/drive/folders/1SHTrF0ARUuq5nOO6SFsVv7r6cL-WwsRs?usp=drive_link)).
 
 Run Cai_Dat_Lan_Dau.bat to set up the local environment.
 
